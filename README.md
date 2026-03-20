@@ -124,7 +124,7 @@ app/ bootstrap/ config/ database/ public/ resources/ routes/ storage/
 
 ### 1) Clone Repository
 
-git clone git clone https://github.com/bdkazal/YOUR_REPOSITORY_NAME.git
+git clone git clone https://github.com/bdkazal/Assignment-04-UrlShortener-Api
 
 ---
 
